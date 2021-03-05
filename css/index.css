@@ -1,0 +1,255 @@
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-Italic.eot");
+  src: local("Taviraj Italic"), local("Taviraj-Italic"), url("../fonts/taviraj/Taviraj-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-Italic.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-Italic.woff") format("woff"), url("../fonts/taviraj/Taviraj-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-Black.eot");
+  src: local("./fonts/taviraj/Taviraj Black"), local("Taviraj-Black"), url("../fonts/taviraj/Taviraj-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-Black.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-Black.woff") format("woff"), url("../fonts/taviraj/Taviraj-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-ExtraBold.eot");
+  src: local("Taviraj ExtraBold"), local("Taviraj-ExtraBold"), url("../fonts/taviraj/Taviraj-ExtraBold.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-ExtraBold.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-ExtraBold.woff") format("woff"), url("../fonts/taviraj/Taviraj-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-ExtraLightItalic.eot");
+  src: local("Taviraj ExtraLight Italic"), local("Taviraj-ExtraLightItalic"), url("../fonts/taviraj/Taviraj-ExtraLightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-ExtraLightItalic.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-ExtraLightItalic.woff") format("woff"), url("../fonts/taviraj/Taviraj-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-Light.eot");
+  src: local("Taviraj Light"), local("Taviraj-Light"), url("../fonts/taviraj/Taviraj-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-Light.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-Light.woff") format("woff"), url("../fonts/taviraj/Taviraj-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-LightItalic.eot");
+  src: local("Taviraj Light Italic"), local("Taviraj-LightItalic"), url("../fonts/taviraj/Taviraj-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-LightItalic.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-LightItalic.woff") format("woff"), url("../fonts/taviraj/Taviraj-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-BlackItalic.eot");
+  src: local("Taviraj Black Italic"), local("Taviraj-BlackItalic"), url("../fonts/taviraj/Taviraj-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-BlackItalic.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-BlackItalic.woff") format("woff"), url("../fonts/taviraj/Taviraj-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-ThinItalic.eot");
+  src: local("Taviraj Thin Italic"), local("Taviraj-ThinItalic"), url("../fonts/taviraj/Taviraj-ThinItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-ThinItalic.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-ThinItalic.woff") format("woff"), url("../fonts/taviraj/Taviraj-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-MediumItalic.eot");
+  src: local("Taviraj Medium Italic"), local("Taviraj-MediumItalic"), url("../fonts/taviraj/Taviraj-MediumItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-MediumItalic.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-MediumItalic.woff") format("woff"), url("../fonts/taviraj/Taviraj-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-BoldItalic.eot");
+  src: local("Taviraj Bold Italic"), local("Taviraj-BoldItalic"), url("../fonts/taviraj/Taviraj-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-BoldItalic.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-BoldItalic.woff") format("woff"), url("../fonts/taviraj/Taviraj-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-Bold.eot");
+  src: local("Taviraj Bold"), local("Taviraj-Bold"), url("../fonts/taviraj/Taviraj-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-Bold.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-Bold.woff") format("woff"), url("../fonts/taviraj/Taviraj-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-Regular.eot");
+  src: local("Taviraj Regular"), local("Taviraj-Regular"), url("../fonts/taviraj/Taviraj-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-Regular.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-Regular.woff") format("woff"), url("../fonts/taviraj/Taviraj-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-SemiBold.eot");
+  src: local("Taviraj SemiBold"), local("Taviraj-SemiBold"), url("../fonts/taviraj/Taviraj-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-SemiBold.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-SemiBold.woff") format("woff"), url("../fonts/taviraj/Taviraj-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-Thin.eot");
+  src: local("Taviraj Thin"), local("Taviraj-Thin"), url("../fonts/taviraj/Taviraj-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-Thin.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-Thin.woff") format("woff"), url("../fonts/taviraj/Taviraj-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-ExtraBoldItalic.eot");
+  src: local("Taviraj ExtraBold Italic"), local("Taviraj-ExtraBoldItalic"), url("../fonts/taviraj/Taviraj-ExtraBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-ExtraBoldItalic.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-ExtraBoldItalic.woff") format("woff"), url("../fonts/taviraj/Taviraj-ExtraBoldItalic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-SemiBoldItalic.eot");
+  src: local("Taviraj SemiBold Italic"), local("Taviraj-SemiBoldItalic"), url("../fonts/taviraj/Taviraj-SemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-SemiBoldItalic.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-SemiBoldItalic.woff") format("woff"), url("../fonts/taviraj/Taviraj-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-ExtraLight.eot");
+  src: local("Taviraj ExtraLight"), local("Taviraj-ExtraLight"), url("../fonts/taviraj/Taviraj-ExtraLight.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-ExtraLight.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-ExtraLight.woff") format("woff"), url("../fonts/taviraj/Taviraj-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Taviraj';
+  src: url("../fonts/taviraj/Taviraj-Medium.eot");
+  src: local("Taviraj Medium"), local("Taviraj-Medium"), url("../fonts/taviraj/Taviraj-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/taviraj/Taviraj-Medium.woff2") format("woff2"), url("../fonts/taviraj/Taviraj-Medium.woff") format("woff"), url("../fonts/taviraj/Taviraj-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-Light.eot");
+  src: local("Nunito Light"), local("Nunito-Light"), url("../fonts/nunito/Nunito-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-Light.woff2") format("woff2"), url("../fonts/nunito/Nunito-Light.woff") format("woff"), url("../fonts/nunito/Nunito-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-ExtraLight.eot");
+  src: local("Nunito ExtraLight"), local("Nunito-ExtraLight"), url("../fonts/nunito/Nunito-ExtraLight.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-ExtraLight.woff2") format("woff2"), url("../fonts/nunito/Nunito-ExtraLight.woff") format("woff"), url("../fonts/nunito/Nunito-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-BlackItalic.eot");
+  src: local("Nunito Black Italic"), local("Nunito-BlackItalic"), url("../fonts/nunito/Nunito-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-BlackItalic.woff2") format("woff2"), url("../fonts/nunito/Nunito-BlackItalic.woff") format("woff"), url("../fonts/nunito/Nunito-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-SemiBold.eot");
+  src: local("Nunito SemiBold"), local("Nunito-SemiBold"), url("../fonts/nunito/Nunito-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-SemiBold.woff2") format("woff2"), url("../fonts/nunito/Nunito-SemiBold.woff") format("woff"), url("../fonts/nunito/Nunito-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-ExtraLightItalic.eot");
+  src: local("Nunito ExtraLight Italic"), local("Nunito-ExtraLightItalic"), url("../fonts/nunito/Nunito-ExtraLightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-ExtraLightItalic.woff2") format("woff2"), url("../fonts/nunito/Nunito-ExtraLightItalic.woff") format("woff"), url("../fonts/nunito/Nunito-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-Regular.eot");
+  src: local("Nunito Regular"), local("Nunito-Regular"), url("../fonts/nunito/Nunito-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-Regular.woff2") format("woff2"), url("../fonts/nunito/Nunito-Regular.woff") format("woff"), url("../fonts/nunito/Nunito-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-Black.eot");
+  src: local("Nunito Black"), local("Nunito-Black"), url("../fonts/nunito/Nunito-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-Black.woff2") format("woff2"), url("../fonts/nunito/Nunito-Black.woff") format("woff"), url("../fonts/nunito/Nunito-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-Italic.eot");
+  src: local("Nunito Italic"), local("Nunito-Italic"), url("../fonts/nunito/Nunito-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-Italic.woff2") format("woff2"), url("../fonts/nunito/Nunito-Italic.woff") format("woff"), url("../fonts/nunito/Nunito-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-ExtraBold.eot");
+  src: local("Nunito ExtraBold"), local("Nunito-ExtraBold"), url("../fonts/nunito/Nunito-ExtraBold.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-ExtraBold.woff2") format("woff2"), url("../fonts/nunito/Nunito-ExtraBold.woff") format("woff"), url("../fonts/nunito/Nunito-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-SemiBoldItalic.eot");
+  src: local("Nunito SemiBold Italic"), local("Nunito-SemiBoldItalic"), url("../fonts/nunito/Nunito-SemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-SemiBoldItalic.woff2") format("woff2"), url("../fonts/nunito/Nunito-SemiBoldItalic.woff") format("woff"), url("../fonts/nunito/Nunito-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-LightItalic.eot");
+  src: local("Nunito Light Italic"), local("Nunito-LightItalic"), url("../fonts/nunito/Nunito-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-LightItalic.woff2") format("woff2"), url("../fonts/nunito/Nunito-LightItalic.woff") format("woff"), url("../fonts/nunito/Nunito-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-ExtraBoldItalic.eot");
+  src: local("Nunito ExtraBold Italic"), local("Nunito-ExtraBoldItalic"), url("../fonts/nunito/Nunito-ExtraBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-ExtraBoldItalic.woff2") format("woff2"), url("../fonts/nunito/Nunito-ExtraBoldItalic.woff") format("woff"), url("../fonts/nunito/Nunito-ExtraBoldItalic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-BoldItalic.eot");
+  src: local("Nunito Bold Italic"), local("Nunito-BoldItalic"), url("../fonts/nunito/Nunito-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-BoldItalic.woff2") format("woff2"), url("../fonts/nunito/Nunito-BoldItalic.woff") format("woff"), url("../fonts/nunito/Nunito-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url("../fonts/nunito/Nunito-Bold.eot");
+  src: local("Nunito Bold"), local("Nunito-Bold"), url("../fonts/nunito/Nunito-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/nunito/Nunito-Bold.woff2") format("woff2"), url("../fonts/nunito/Nunito-Bold.woff") format("woff"), url("../fonts/nunito/Nunito-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
